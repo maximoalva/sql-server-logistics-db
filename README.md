@@ -1,8 +1,8 @@
 # 🚚 Transport & Logistics Database (SQL Server)
 
 > Bases de Datos I - Trabajos prácticos 1 y 2  
-> Facultad de Ciencias Exactas, Ingeniería y Agrimensura (FCEIA - UNR)  
-> Tecnicatura Universitaria en Inteligencia Artificial  
+> Tecnicatura Universitaria en Inteligencia Artificial (Universidad Nacional de Rosario)  
+> Máximo Alva  
 > 2023
 
 ---
